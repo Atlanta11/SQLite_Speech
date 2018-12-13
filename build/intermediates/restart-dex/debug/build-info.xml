@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="2624602704796"
+    token="-7717101887173864860"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="261" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="98" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="2550003730184"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Project_android_studio\ListViewSQLite\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="2624602704796"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

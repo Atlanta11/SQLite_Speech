@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Dec 13 01:16:19 CET 2018
+2.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\rowlayout.xml
+4.set=ANDROID_RESOURCE
+6.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+10.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+8.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=DEX
